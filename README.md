@@ -20,8 +20,7 @@
 <br/>
 
 ### 🔥 Streak Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=j-mathewxz&theme=dark&hide_border=true)  
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=j-mathewxz&theme=dark&hide_border=true)<br/>
 
 ### 🏆 Most Used Languages  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-mathewxz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
