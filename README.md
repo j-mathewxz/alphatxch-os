@@ -1,8 +1,7 @@
 # 💫 About Me  
 🎓 Data Science & AI Student | Passionate about Machine Learning & Automation  
 🔎 Exploring **Deep Learning, Data Science, and Web Development**  
-🎸 Learning **Guitar** in my free time  
-📫 Reach me on [LinkedIn](your-linkedin-profile)  
+📫 Reach me on [LinkedIn](www.linkedin.com/in/josh-mathew-730790227e)  
 
 ---
 
