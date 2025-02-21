@@ -1,6 +1,3 @@
-<a href="https://google.com">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=j-mathewxz&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <br>
-  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-mathewxz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide_title=true"/>
-</a>
+| GitHub Stats | Streak Stats |
+|-------------|-------------|
+| ![](https://github-readme-stats.vercel.app/api?username=j-mathewxz&theme=swift&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=j-mathewxz&theme=swift&hide_border=false) |
